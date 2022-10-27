@@ -53,6 +53,8 @@ body
 	margin-left: 70px;
 	margin-top: 400px;
 	margin-bottom: 10px;
+	position: fixed;
+	bottom: 160px;
 }
 
 .youtube_channel
@@ -62,6 +64,8 @@ body
 	margin-left: 70px;
 	margin-top: 15px;
 	margin-bottom: 10px;
+	position: fixed;
+	bottom: 120px;
 }
 
 .projects
@@ -71,6 +75,8 @@ body
 	margin-left: 70px;
 	margin-top: 15px;
 	margin-bottom: 10px;
+	position: fixed;
+	bottom: 80px;
 }
 
 .links
@@ -80,6 +86,8 @@ body
 	margin-left: 70px;
 	margin-top: 15px;
 	margin-bottom: 10px;
+	position: fixed;
+	bottom: 40px;
 }
 
 a
