@@ -1,6 +1,6 @@
 *
 {
-	font-family: Roboto, Calibri;
+	font-family: Roboto;
 }
 
 body
@@ -51,7 +51,6 @@ body
 	color: white;
 	font-size: 16px;
 	margin-left: 70px;
-	margin-top: 400px;
 	margin-bottom: 10px;
 	position: fixed;
 	bottom: 160px;
@@ -62,7 +61,6 @@ body
 	color: white;
 	font-size: 16px;
 	margin-left: 70px;
-	margin-top: 15px;
 	margin-bottom: 10px;
 	position: fixed;
 	bottom: 120px;
@@ -73,7 +71,6 @@ body
 	color: white;
 	font-size: 16px;
 	margin-left: 70px;
-	margin-top: 15px;
 	margin-bottom: 10px;
 	position: fixed;
 	bottom: 80px;
@@ -84,7 +81,6 @@ body
 	color: white;
 	font-size: 16px;
 	margin-left: 70px;
-	margin-top: 15px;
 	margin-bottom: 10px;
 	position: fixed;
 	bottom: 40px;
@@ -107,7 +103,7 @@ footer
 	color: white;
 	font-weight: bold;
 	font-size: 15px;
-	color: #272829;
+	color: #3f4447;
 	position: fixed;
 	bottom: 0;
 	right: 0;
